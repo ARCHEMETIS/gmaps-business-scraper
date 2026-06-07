@@ -4,6 +4,10 @@ A reusable Python + Selenium scraper that extracts business leads from Google Ma
 
 Built to be **language-agnostic**: it returns correct addresses for Japan, Thailand, France, the USA, the UAE, and anywhere else, without country-specific hacks.
 
+![Sample output](docs/sample_preview.png)
+
+*Real output across 5 industries and 4 continents — see the `.xlsx` files in this repo.*
+
 ---
 
 ## ✨ What it extracts
